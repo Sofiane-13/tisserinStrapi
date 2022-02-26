@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: tisserin
+  api_key: '428646829329315'
+  api_secret: OYoaUIn6r7NNAf-8yxXs1i9Kwpc
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: tisserin
+  api_key: '428646829329315'
+  api_secret: OYoaUIn6r7NNAf-8yxXs1i9Kwpc
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: tisserin
+  api_key: '428646829329315'
+  api_secret: OYoaUIn6r7NNAf-8yxXs1i9Kwpc
+  enhance_image_tag: true
+  static_image_support: false
