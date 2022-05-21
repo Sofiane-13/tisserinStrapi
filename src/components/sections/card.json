@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slices_card",
+  "info": {
+    "name": "Card",
+    "displayName": "Card",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "picture": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

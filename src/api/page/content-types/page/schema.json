@@ -41,6 +41,7 @@
       "type": "dynamiczone",
       "components": [
         "sections.hero",
+        "sections.card",
         "sections.bottom-actions",
         "sections.feature-columns-group",
         "sections.feature-rows-group",
