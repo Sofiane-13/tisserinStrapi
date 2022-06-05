@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_slices_section_img",
+  "info": {
+    "name": "Section-img",
+    "displayName": "Section-img",
+    "icon": "puzzle-piece"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "picture": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
+
