@@ -9,4 +9,13 @@ module.exports = ({ env }) => ({
       },
     },
   },
+  email: {
+    config: {
+      provider: 'sendmail',
+      settings: {
+        defaultFrom: 'sofiane_belhadj_kacem@outlook.fr',
+        defaultReplyTo: 'sofiane_belhadj_kacem@outlook.fr',
+      },
+    },
+  },
 });
